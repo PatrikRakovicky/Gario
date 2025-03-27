@@ -33,3 +33,4 @@ c:\Users\42194\TestGario\bin\Debug\net8.0\Content\gario_coin.xnb
 c:\Users\42194\TestGario\bin\Debug\net8.0\Content\Brick.xnb
 c:\Users\42194\TestGario\bin\Debug\net8.0\Content\jump_sound.xnb
 c:\Users\42194\TestGario\bin\Debug\net8.0\Content\jump_sound_gario1.xnb
+c:\Users\42194\TestGario\obj\Debug\net8.0\TestGario.sourcelink.json

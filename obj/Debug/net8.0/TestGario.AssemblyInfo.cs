@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestGario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+306431569981660ccde885982e7cc7d3e898b725")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestGario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestGario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
