@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/42194/TestGario/Content/../../Downloads/jump_sound_gario1.wav","c:/Users/42194/TestGario/Content/bin/DesktopGL/Content/jump_sound_gario1.xnb","SoundEffectProcessor","SoundEffectContent",26982,26129,0.3448445
+"c:/Users/42194/TestGario/Content/background.png","c:/Users/42194/TestGario/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",27574,7680085,0.2709781
+"c:/Users/42194/TestGario/Content/ball.png","c:/Users/42194/TestGario/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",8368,16469,0.1262548
+"c:/Users/42194/TestGario/Content/Brick.png","c:/Users/42194/TestGario/Content/bin/DesktopGL/Content/Brick.xnb","TextureProcessor","Texture2DContent",290,1109,0.1351989
+"c:/Users/42194/TestGario/Content/gario_coin.png","c:/Users/42194/TestGario/Content/bin/DesktopGL/Content/gario_coin.xnb","TextureProcessor","Texture2DContent",258,1109,0.0844346
+"c:/Users/42194/TestGario/Content/Gario.png","c:/Users/42194/TestGario/Content/bin/DesktopGL/Content/Gario.xnb","TextureProcessor","Texture2DContent",327,1109,0.1074755
+"c:/Users/42194/TestGario/Content/jump_sound.wav","c:/Users/42194/TestGario/Content/bin/DesktopGL/Content/jump_sound.xnb","SoundEffectProcessor","SoundEffectContent",628764,628825,0.3926279
+"c:/Users/42194/TestGario/Content/martinko_vrabel.png","c:/Users/42194/TestGario/Content/bin/DesktopGL/Content/martinko_vrabel.xnb","TextureProcessor","Texture2DContent",605809,21103477,0.5888328
+"c:/Users/42194/TestGario/Content/martinko_vrabel1.png","c:/Users/42194/TestGario/Content/bin/DesktopGL/Content/martinko_vrabel1.xnb","TextureProcessor","Texture2DContent",13367,40885,0.1364027
+"c:/Users/42194/TestGario/Content/monkey_man.png","c:/Users/42194/TestGario/Content/bin/DesktopGL/Content/monkey_man.xnb","TextureProcessor","Texture2DContent",357,1109,0.0853148

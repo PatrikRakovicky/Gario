@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/42194/TestGario/Content/../../Downloads/jump_sound_gario1.wav</File>
+    <File>c:/Users/42194/TestGario/Content/background.png</File>
+    <File>c:/Users/42194/TestGario/Content/ball.png</File>
+    <File>c:/Users/42194/TestGario/Content/Brick.png</File>
+    <File>c:/Users/42194/TestGario/Content/gario_coin.png</File>
+    <File>c:/Users/42194/TestGario/Content/Gario.png</File>
+    <File>c:/Users/42194/TestGario/Content/jump_sound.wav</File>
+    <File>c:/Users/42194/TestGario/Content/martinko_vrabel.png</File>
+    <File>c:/Users/42194/TestGario/Content/martinko_vrabel1.png</File>
+    <File>c:/Users/42194/TestGario/Content/monkey_man.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>jump_sound_gario1.wav</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

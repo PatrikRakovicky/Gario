@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/Users/42194/TestGario/Content/../../Downloads/jump_sound_gario1.wav</SourceFile>
+  <SourceTime>2025-03-27T08:19:31.7972438+01:00</SourceTime>
+  <DestFile>c:/Users/42194/TestGario/Content/bin/DesktopGL/Content/jump_sound_gario1.xnb</DestFile>
+  <DestTime>2025-03-27T08:28:50.4507606+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2024-08-16T19:05:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
